@@ -1,0 +1,22 @@
+[{
+        "key": "order",
+        "title": "Peanut butter and Jelly",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Peanut-Butter-Jelly-Sandwich.png/250px-Peanut-Butter-Jelly-Sandwich.png",
+        "text1": "PB & J",
+        "text2": "Lorem ipsum dolor sit amet, graeci democritum his ea. Sed an vitae omittantur. Harum tamquam ea pri, choro exerci invenire ut qui. Pro eleifend consulatu at."
+    },
+    {
+        "key": "angular2",
+        "title": "Ham Sandwhich",
+        "logo": "http://1.bp.blogspot.com/-gBTSbyKxp9E/Tybj1TVr3xI/AAAAAAAABfM/STQ4_rSIfbs/s1600/1327899370691.jpg",
+        "text1": "One framework. Mobile and desktop.",
+        "text2": "Usu mutat iisque facilis ex, error iusto ut sea. Ei eos habeo graeco."
+    },
+    {
+        "key": "browsersync",
+        "title": "Custom Sandwhich",
+        "logo": "https://cdn.drawception.com/images/panels/2016/8-17/CT5W4ng6ec-10.png",
+        "text1": "Time-saving synchronised browser testing",
+        "text2": "Ut duis vocibus est. Legere suscipiantur per id, ea has veniam primis. Eam cu wisi velit appetere, eum erat etiam in."
+    }
+]
